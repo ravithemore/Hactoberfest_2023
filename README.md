@@ -1,4 +1,4 @@
-<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2023-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><be>
+<a href="https://github.com/ravithemore/Hactoberfest_2023"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2023-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><be>
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/61356005/209368532-ab56678f-175a-4917-81bd-d4bfb9774fc9.jpg" alt="Web Developement Image" width=855px /> -->
 
@@ -26,20 +26,20 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
  
 *	```⚠️⚠️ Same Programming questions will not be accepted ⚠️⚠️```
 *	`Star & Fork the Repository 👇 repository.`
-* [this](https://github.com/Kushal997-das/Hacktoberfest-2021) <br>
+* [this](https://github.com/ravithemore/Hactoberfest_2023) <br>
 *	```Must fill data.json file after completing your task```</br>
 
  
  # Hacktoberfest_2021 🌈
   
  - Choose from these tasks below 👇
-      - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level)
+      - [Beginner level 📁](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level)
       - Intermediate level 📁 <br><br>
       
  
 <img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
 
-## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level/TASK%20%231) :innocent:
+## Task 1: [Add your program question and solution](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level) :innocent:
 Add any programming question and its solution in a separate folder and make your way to Open Source.
 
 :star: The file structure will be as follows:
@@ -51,24 +51,24 @@ Add any programming question and its solution in a separate folder and make your
 
 ```
 
- - After submitting your programming questions  don't forget to add your name and github user name [here](https://github.com/Kushal997-das/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%231/data.json) <br>
-:eyes: Upload your contribution here in this folder [Task 1](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231)
+ - After submitting your programming questions  don't forget to add your name and github user name [here](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level) <br>
+:eyes: Upload your contribution here in this folder [Task 1](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level)
 
-## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
+## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level) :eyes:
  
 ### How to add portfolio ❓ 🤔
- - [follow this](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/README.md)
-   - Make sure you don't chnage anything in [this](https://github.com/Kushal997-das/Hacktoberfest-2021/edit/master/1.%20Beginner%20level/TASK%20%232/README.md) Just copy this code and add required details -
+ - [follow this](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level)
+   - Make sure you don't chnage anything in [this](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level) Just copy this code and add required details -
  
  ```
  <table width="100%"><tr><td align="center"><p><a href="portfolio link">Your name</a></p><img src=" Image URL " /></td>
 ```
    
 
-- After submitting the profiles don't forget to add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/data.json)
+- After submitting the profiles don't forget to add your profile details in [data.json](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level)
  
 
-:eyes: Upload your contribution here in this folder [Task 2](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level/TASK%20%232)
+:eyes: Upload your contribution here in this folder [Task 2](https://github.com/ravithemore/Hactoberfest_2023/tree/main/1.%20Beginner%20level)
 
 <br><br>
   
@@ -77,7 +77,7 @@ Add any programming question and its solution in a separate folder and make your
   
  - You can also contribute these project 👇
   
- [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+ [Project-Guidance]()
   
  |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
 |-------------|-------------------|---|---|
@@ -125,9 +125,9 @@ Add any programming question and its solution in a separate folder and make your
 
 
 
-*1* STAR[this](https://github.com/Kushal997-das/Hacktoberfest-2021) repository.
+*1* STAR[this](https://github.com/ravithemore/Hactoberfest_2023) repository.
 
-**2** Fork [this](https://github.com/Kushal997-das/Hacktoberfest-2021) repository.
+**2** Fork [this](https://github.com/ravithemore/Hactoberfest_2023) repository.
 
 **3** Clone the forked repository.
 
@@ -165,7 +165,7 @@ git push -u origin <your_branch_name>
 ```
 
 
-**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_2021](https://github.com/Kushal997-das/Hacktoberfest-2021). :v: :heart: 💥
+**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_2021](https://github.com/ravithemore/Hactoberfest_2023). :v: :heart: 💥
 
 <br><br>
   
@@ -173,7 +173,7 @@ git push -u origin <your_branch_name>
 
 
 ## Need more help?🤔  
-You can refer to the following articles on basics of Git and Github and also contact the Project [Mentor](https://github.com/Kushal997-das/), in case you are stuck:  
+You can refer to the following articles on basics of Git and Github and also contact the Project [Mentor](https://twitter.com/Ravithemore), in case you are stuck:  
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)  
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)  
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)  
